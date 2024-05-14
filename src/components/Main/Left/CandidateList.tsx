@@ -32,7 +32,7 @@ const CandidateList: React.FC<CandidateListProps> = ({ candidates, selectedCandi
                 >
                     <div className="flex items-center justify-between px-2 py-1 pr-8">
                         <div className="flex items-center gap-2">
-                            <img src={candidate.image   } width={30} className="rounded-md" alt="Picture of the author" />
+                            <img src={candidate.image   } width={30} className="rounded-md" alt="img" />
                             <div className="flex flex-col">
                                 <p className="font-bold text-[#3B4554]">{candidate.name}</p>
                                 <p className="text-[#758499]">{candidate.email}</p>
