@@ -1,5 +1,5 @@
 import Footer from "@/components/Footer";
-import Assignment from "@/components/Main/pages";
+import Assignment from "@/components/Main";
 import Sidebar from "@/components/Sidebar";
 import Image from "next/image";
 
