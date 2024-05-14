@@ -2,7 +2,6 @@ import React from 'react';
 
 interface Candidate {
     name: string;
-    video: string;
     email: string;
     score: number;
     image: string;

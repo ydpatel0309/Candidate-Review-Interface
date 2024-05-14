@@ -6,7 +6,6 @@ import CandidateList from './CandidateList';
 
 interface Candidate {
   name: string;
-  video: string;
   email: string;
   score: number;
   image: string;

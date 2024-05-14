@@ -4,7 +4,6 @@ import ProgressBar from './Progressbar';
 
 interface Candidate {
   name: string;
-  video: string;
   email: string;
   score: number;
   image: string;

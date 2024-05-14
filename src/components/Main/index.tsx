@@ -6,7 +6,6 @@ import CandidateCard from './CandidateCard';
 
 interface Candidate {
     name: string;
-    video: string;
     email: string;
     score: number;
     image: string;
